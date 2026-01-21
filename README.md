@@ -33,18 +33,12 @@ CleanChamp uses **AI + heuristics** to analyze storage and provide **safe, user-
 _All screenshots stored in `assets/screenshots/`_
 
 <p align="center">
-  <img src="assets/screenshots/ss1.png" width="30%" />
-  <img src="assets/screenshots/ss2.png" width="30%" />
-  <img src="assets/screenshots/ss3.png" width="30%" />
+  <img src="2.jpeg" width="30%" />
+  <img src="4.jpeg" width="30%" />
+  <img src="5.jpeg" width="30%" />
+
 </p>
 
-<p align="center">
-  <img src="assets/screenshots/ss4.png" width="30%" />
-  <img src="assets/screenshots/ss5.png" width="30%" />
-  <img src="assets/screenshots/ss6.png" width="30%" />
-</p>
-
----
 
 ## 🏗️ Architecture Diagram
 
