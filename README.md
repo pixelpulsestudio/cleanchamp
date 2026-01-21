@@ -30,20 +30,20 @@ CleanChamp uses **AI + heuristics** to analyze storage and provide **safe, user-
 
 ## 🖼️ Screenshots
 
-_All screenshots stored in `assets/screenshots/`_
-
 <p align="center">
-  <img src="2.jpeg" width="30%" />
-  <img src="4.jpeg" width="30%" />
-  <img src="5.jpeg" width="30%" />
+  <img src="2.jpeg" width="20%" />
+  <img src="4.jpeg" width="20%" />
+  <img src="5.jpeg" width="20%" />
 
 </p>
 
-
+---
 ## 🏗️ Architecture Diagram
 
 <p align="center">
-  <img src="assets/architecture/architecture_diagram.png" alt="Architecture Diagram" width="90%" />
+  <img src="cleanarch.png" width="40%" />
+  <img src="presentation.png" width="40%" />
+
 </p>
 
 ---
